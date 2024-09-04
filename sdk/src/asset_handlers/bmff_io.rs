@@ -71,6 +71,7 @@ static SUPPORTED_TYPES: [&str; 13] = [
     "heif",
     "heic",
     "mp4",
+    "m4s",
     "m4a",
     "mov",
     "application/mp4",
